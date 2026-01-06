@@ -4,18 +4,52 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>College Basketball Model Picks</title>
+
   <style>
-    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; margin: 24px; background:#fafafa; color:#111; }
+    body {
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+      margin: 24px;
+      background: #fafafa;
+      color: #111;
+    }
+
     h1 { margin: 0 0 8px 0; }
-    #status { color:#444; margin: 0 0 16px 0; }
-    table { border-collapse: collapse; width: 100%; background: white; }
-    th, td { border: 1px solid #ddd; padding: 8px; font-size: 14px; }
-    th { background: #f2f2f2; text-align: left; position: sticky; top: 0; }
-    tr.edge-great td { background: #e8fff0; }
-    tr.edge-good  td { background: #f3fff7; }
-    tr.edge-bad   td { background: #fff1f1; }
+    #status { color: #444; margin: 0 0 16px 0; }
+
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      background: white;
+    }
+
+    th, td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      font-size: 14px;
+    }
+
+    /* Teal header */
+    th {
+      background: #0f766e;      /* teal */
+      color: white;
+      text-align: left;
+      position: sticky;
+      top: 0;
+      z-index: 1;
+    }
+
+    /* Light gray body rows */
+    tbody tr td {
+      background: #f5f5f5;
+    }
+
+    /* Subtle hover effect (optional, but nice) */
+    tbody tr:hover td {
+      background: #ececec;
+    }
   </style>
 </head>
+
 <body>
   <h1>College Basketball Model Picks</h1>
   <p id="status">Loading data/latest.csv…</p>
@@ -24,7 +58,6 @@
 
   <script>
     function parseCSV(text) {
-      // Simple CSV parser that handles quoted fields.
       const rows = [];
       let row = [], field = '', inQuotes = false;
 
@@ -49,23 +82,11 @@
       return rows;
     }
 
-    function toNumber(x) {
-      const n = Number(String(x).replace(/[%,$]/g, '').trim());
-      return Number.isFinite(n) ? n : NaN;
-    }
-
     async function main() {
       const status = document.getElementById('status');
       const table = document.getElementById('tbl');
 
-      let resp;
-      try {
-        resp = await fetch('data/latest.csv', { cache: 'no-store' });
-      } catch (e) {
-        status.textContent = 'Fetch error (network/CORS): ' + e.message;
-        return;
-      }
-
+      const resp = await fetch('data/latest.csv', { cache: 'no-store' });
       if (!resp.ok) {
         status.textContent = `Could not load data/latest.csv (HTTP ${resp.status}).`;
         return;
@@ -74,15 +95,15 @@
       const text = await resp.text();
       const rows = parseCSV(text.trim());
       if (rows.length < 2) {
-        status.textContent = 'CSV loaded but appears empty or has no data rows.';
+        status.textContent = 'CSV loaded but appears empty.';
         return;
       }
 
       const header = rows[0];
       const dataRows = rows.slice(1);
 
-      // Build header
       table.innerHTML = '';
+
       const thead = document.createElement('thead');
       const trh = document.createElement('tr');
       header.forEach(h => {
@@ -93,21 +114,9 @@
       thead.appendChild(trh);
       table.appendChild(thead);
 
-      // Locate edge column (if present)
-      const edgeIdx = header.findIndex(h => h.toLowerCase().includes('edge'));
-
-      // Build body
       const tbody = document.createElement('tbody');
       for (const r of dataRows) {
         const tr = document.createElement('tr');
-
-        if (edgeIdx >= 0) {
-          const e = toNumber(r[edgeIdx]);
-          if (Number.isFinite(e) && e >= 6) tr.classList.add('edge-great');
-          else if (Number.isFinite(e) && e >= 2) tr.classList.add('edge-good');
-          else if (Number.isFinite(e) && e <= -2) tr.classList.add('edge-bad');
-        }
-
         r.forEach(v => {
           const td = document.createElement('td');
           td.textContent = v;
