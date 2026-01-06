@@ -1,0 +1,30 @@
+home team,away team,market spread,market odds,model mean,model P(cover),model edge,model fair odds,# members cover
+Ohio,Massachusetts,Ohio -4.5,Ohio -102.0,-2.23,0.41,-9.37,Massachusetts -143.18,0
+Akron,Central Michigan,Akron -23.5,Akron -102.0,-27.96,0.66,15.47,Akron -193.8,38
+Ball St.,Eastern Michigan,Ball St. -1.5,Ball St. -105.0,3.2,0.32,-18.94,Eastern Michigan -209.76,0
+Kent St.,Bowling Green,Kent St. -2.5,Kent St. -110.0,2.4,0.31,-21.35,Bowling Green -222.22,0
+Butler,St. John's,Butler 4.5,Butler -108.0,-0.3,0.68,16.31,Butler -214.75,38
+West Virginia,Cincinnati,West Virginia -1.5,West Virginia -110.0,-5.01,0.64,11.22,West Virginia -174.71,38
+Louisville,Duke,Louisville -1.5,Louisville 100.0,-2.84,0.55,5.15,Louisville -122.95,37
+Florida,Georgia,Florida -9.5,Florida -115.0,-4.18,0.31,-22.99,Georgia -227.84,0
+Georgia Tech,Syracuse,Georgia Tech 2.5,Georgia Tech -112.0,1.91,0.52,-0.43,Georgia Tech -110.1,32
+LSU,South Carolina,LSU -7.5,LSU -115.0,-11.97,0.66,12.99,LSU -198.34,38
+Miami OH,Western Michigan,Miami OH -13.5,Miami OH -115.0,-18.89,0.7,16.22,Miami OH -230.15,38
+Penn St.,Michigan,Penn St. 21.5,Penn St. -115.0,22.71,0.46,-7.75,Michigan -118.62,5
+Dayton,George Washington,Dayton -2.5,Dayton -120.0,-3.49,0.54,-0.6,Dayton -117.13,33
+DePaul,Georgetown,DePaul -2.5,DePaul -110.0,-0.77,0.43,-9.26,Georgetown -131.89,2
+Minnesota,Iowa,Minnesota 5.5,Minnesota -118.0,6.41,0.46,-7.69,Iowa -115.32,6
+Northern Illinois,Toledo,Northern Illinois 7.5,Northern Illinois -108.0,7.2,0.51,-0.72,Northern Illinois -104.94,26
+Oklahoma St.,UCF,Oklahoma St. -2.5,Oklahoma St. -115.0,2.45,0.32,-21.82,UCF -215.78,0
+SIUE,Lindenwood,SIUE 1.5,SIUE -120.0,-1.79,0.63,8.72,SIUE -172.25,38
+Air Force,Utah St.,Air Force 21.5,Air Force -102.0,24.11,0.4,-10.1,Utah St. -147.58,0
+Auburn,Texas A&M,Auburn -6.5,Auburn -112.0,-10.3,0.64,11.38,Auburn -179.37,38
+Boston College,N.C. State,Boston College 12.5,Boston College -118.0,13.01,0.48,-5.99,N.C. State -107.75,10
+Colorado St.,New Mexico,Colorado St. 1.5,Colorado St. -112.0,-1.82,0.63,9.67,Colorado St. -166.7,38
+Houston,Texas Tech,Houston -6.5,Houston -102.0,-6.15,0.49,-1.74,Texas Tech -105.12,12
+Kansas,TCU,Kansas -7.5,Kansas -108.0,-10.19,0.6,7.78,Kansas -148.17,38
+Tennessee,Texas,Tennessee -10.5,Tennessee -108.0,-11.08,0.52,0.34,Tennessee -109.48,24
+Wisconsin,UCLA,Wisconsin -3.5,Wisconsin -112.0,-3.04,0.48,-4.58,UCLA -107.27,12
+San Jose St.,Fresno St.,San Jose St. -1.5,San Jose St. -105.0,-0.04,0.44,-6.85,Fresno St. -125.4,1
+Wyoming,UNLV,Wyoming -3.5,Wyoming -115.0,-8.27,0.69,15.18,Wyoming -219.17,38
+Nevada,San Diego St.,Nevada -1.5,Nevada -115.0,-6.33,0.68,14.74,Nevada -214.79,38

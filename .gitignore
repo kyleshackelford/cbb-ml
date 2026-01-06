@@ -1,0 +1,9 @@
+# Ignore everything except the site artifacts
+# /data/*.csv~
+
+# OS junk
+.DS_Store
+
+# Editors
+*.swp
+*.tmp
