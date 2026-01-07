@@ -142,7 +142,7 @@
       const header = rows[0];
       const dataRows = rows.slice(1);
 
-      // Sort table by model edge (descending)
+      // Sort table by |model edge| (descending)
       const edgeIdx = header.findIndex(h =>
         h.toLowerCase().includes("edge")
       );
@@ -151,8 +151,11 @@
         dataRows.sort((a, b) => {
           const ea = Number(String(a[edgeIdx]).replace(/[%,$]/g, ''));
           const eb = Number(String(b[edgeIdx]).replace(/[%,$]/g, ''));
-          return (Number.isFinite(eb) ? eb : -Infinity) -
-                 (Number.isFinite(ea) ? ea : -Infinity);
+
+          const absEa = Number.isFinite(ea) ? Math.abs(ea) : -Infinity;
+          const absEb = Number.isFinite(eb) ? Math.abs(eb) : -Infinity;
+
+          return absEb - absEa;
         });
       }
 
