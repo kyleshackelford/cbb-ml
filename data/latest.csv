@@ -1,50 +1,50 @@
 home team,away team,market spread,market odds,model consensus,model P(cover),model edge (%),model fair odds,# members cover
-Chattanooga,Furman,Chattanooga 1.5,Chattanooga -105,3.05,0.44,4.68,Furman -126.74,3
+Chattanooga,Furman,Chattanooga 1.5,Chattanooga -105,3.05,0.44,2.41,Furman -126.74,3
 Army,Loyola MD,Army -4.5,Army -108,-6.97,0.6,7.83,Army -148.5,38
-Lehigh,Holy Cross,Lehigh -3.5,Lehigh -115,-1.65,0.43,3.72,Holy Cross -133.67,0
+Lehigh,Holy Cross,Lehigh -3.5,Lehigh -115,-1.65,0.43,5.99,Holy Cross -133.67,0
 Wofford,UNC Greensboro,Wofford -5.5,Wofford -108,-7.38,0.58,5.62,Wofford -135.54,37
 Winthrop,Charleston Southern,Winthrop -6.5,Winthrop -118,-8.71,0.59,4.52,Winthrop -141.86,36
-Maryland,Indiana,Maryland 7.5,Maryland -115,8.92,0.45,1.97,Indiana -124.53,4
+Maryland,Indiana,Maryland 7.5,Maryland -115,8.92,0.45,4.24,Indiana -124.53,4
 UNC Asheville,Longwood,UNC Asheville -4.5,UNC Asheville -110,-2.56,0.42,5.46,Longwood -137.19,1
 Northern Iowa,Belmont,Northern Iowa -1.5,Northern Iowa -115,-4.71,0.62,8.53,Northern Iowa -163.27,38
 Saint Joseph's,Duquesne,Saint Joseph's 2.5,Saint Joseph's -110,3.12,0.48,0.09,Duquesne -110.42,9
 Temple,East Carolina,Temple -8.5,Temple -115,-12.96,0.67,13.62,Temple -203.99,38
-East Tennessee St.,VMI,East Tennessee St. -17.5,East Tennessee St. -112,-17.18,0.49,1.62,VMI -104.96,15
-Jacksonville St.,FIU,Jacksonville St. -1.5,Jacksonville St. -115,3.02,0.32,14.08,FIU -208.34,0
-Fordham,George Mason,Fordham 6.5,Fordham -115,9.11,0.4,6.49,George Mason -149.88,1
-James Madison,Marshall,James Madison -2.5,James Madison -108,-0.77,0.43,4.89,Marshall -131.56,1
-Kennesaw St.,Missouri St.,Kennesaw St. -5.5,Kennesaw St. -115,-4.61,0.46,0.21,Missouri St. -115.99,4
+East Tennessee St.,VMI,East Tennessee St. -17.5,East Tennessee St. -112,-17.18,0.49,0.71,VMI -104.96,15
+Jacksonville St.,FIU,Jacksonville St. -1.5,Jacksonville St. -115,3.02,0.32,16.35,FIU -208.34,0
+Fordham,George Mason,Fordham 6.5,Fordham -115,9.11,0.4,8.76,George Mason -149.88,1
+James Madison,Marshall,James Madison -2.5,James Madison -108,-0.77,0.43,3.98,Marshall -131.56,1
+Kennesaw St.,Missouri St.,Kennesaw St. -5.5,Kennesaw St. -115,-4.61,0.46,2.48,Missouri St. -115.99,4
 Kentucky,Missouri,Kentucky -13.5,Kentucky -105,-13.75,0.51,0.28,Kentucky -103.83,21
-Rhode Island,La Salle,Rhode Island -9.5,Rhode Island -120,-9.14,0.49,3.11,La Salle -105.93,11
+Rhode Island,La Salle,Rhode Island -9.5,Rhode Island -120,-9.14,0.49,1.44,La Salle -105.93,11
 Marquette,Xavier,Marquette -5.5,Marquette -105,-5.65,0.51,0.65,Marquette -102.31,19
 Mercer,The Citadel,Mercer -15.5,Mercer -112,-20.43,0.68,14.86,Mercer -209.49,38
-Wake Forest,Miami FL,Wake Forest -1.5,Wake Forest 100,-0.2,0.45,5.0,Miami FL -122.23,3
+Wake Forest,Miami FL,Wake Forest -1.5,Wake Forest 100,-0.2,0.45,21.19,Miami FL -122.23,3
 Mississippi St.,Oklahoma,Mississippi St. 1.5,Mississippi St. -118,0.61,0.53,0.72,Mississippi St. -114.64,33
 Providence,Connecticut,Providence 10.5,Providence -112,7.78,0.6,7.08,Providence -149.43,38
-St. Bonaventure,Richmond,St. Bonaventure -5.5,St. Bonaventure -118,-2.25,0.38,8.22,Richmond -165.57,0
-VCU,Saint Louis,VCU -2.5,VCU 100,-1.04,0.44,5.76,Saint Louis -126.03,2
+St. Bonaventure,Richmond,St. Bonaventure -5.5,St. Bonaventure -118,-2.25,0.38,11.85,Richmond -165.57,0
+VCU,Saint Louis,VCU -2.5,VCU 100,-1.04,0.44,20.43,Saint Louis -126.03,2
 Samford,Western Carolina,Samford -6.5,Samford -115,-7.49,0.54,0.42,Samford -116.98,35
 Virginia Tech,Stanford,Virginia Tech -5.5,Virginia Tech -110,-5.93,0.52,0.71,Virginia Tech -106.93,27
-Youngstown St.,Purdue Fort Wayne,Youngstown St. -5.5,Youngstown St. -112,-3.59,0.43,4.45,Purdue Fort Wayne -134.1,1
+Youngstown St.,Purdue Fort Wayne,Youngstown St. -5.5,Youngstown St. -112,-3.59,0.43,5.36,Purdue Fort Wayne -134.1,1
 Villanova,Creighton,Villanova -6.5,Villanova -108,-7.75,0.55,2.71,Villanova -120.44,36
 UAB,Florida Atlantic,UAB -3.5,UAB -105,-5.47,0.58,6.41,UAB -136.0,38
 Wichita St.,Rice,Wichita St. -13.5,Wichita St. -115,-16.99,0.63,9.79,Wichita St. -172.32,38
-Arkansas St.,Troy,Arkansas St. -3.5,Arkansas St. -105,0.65,0.34,14.99,Troy -195.93,0
+Arkansas St.,Troy,Arkansas St. -3.5,Arkansas St. -105,0.65,0.34,12.72,Troy -195.93,0
 Baylor,Iowa St.,Baylor 4.5,Baylor -108,3.86,0.52,0.49,Baylor -110.13,26
 UTSA,Charlotte,UTSA 3.5,UTSA -110,5.62,0.42,6.06,Charlotte -140.61,0
-Evansville,Murray St.,Evansville 8.5,Evansville -112,12.05,0.37,10.24,Murray St. -170.79,0
+Evansville,Murray St.,Evansville 8.5,Evansville -112,12.05,0.37,11.15,Murray St. -170.79,0
 Valparaiso,Illinois St.,Valparaiso 6.5,Valparaiso -112,5.42,0.54,1.35,Valparaiso -118.23,31
-North Texas,South Florida,North Texas 4.5,North Texas -105,6.59,0.42,7.08,South Florida -139.79,1
+North Texas,South Florida,North Texas 4.5,North Texas -105,6.59,0.42,4.81,South Florida -139.79,1
 Illinois Chicago,Southern Illinois,Illinois Chicago 3.5,Illinois Chicago -118,0.48,0.62,7.91,Illinois Chicago -163.41,38
-Purdue,Washington,Purdue -17.5,Purdue -105,-14.73,0.4,8.55,Washington -148.54,0
+Purdue,Washington,Purdue -17.5,Purdue -105,-14.73,0.4,6.28,Washington -148.54,0
 Vanderbilt,Alabama,Vanderbilt -4.5,Vanderbilt -108,-9.73,0.69,16.76,Vanderbilt -219.28,38
-BYU,Arizona St.,BYU -18.5,BYU -108,-15.87,0.41,7.52,Arizona St. -146.56,0
+BYU,Arizona St.,BYU -18.5,BYU -108,-15.87,0.41,6.61,Arizona St. -146.56,0
 Arizona,Kansas St.,Arizona -18.5,Arizona -110,-17.15,0.45,2.58,Kansas St. -122.04,2
 Mississippi,Arkansas,Mississippi 4.5,Mississippi -110,6.74,0.42,5.93,Arkansas -139.87,1
 Bradley,Drake,Bradley -6.5,Bradley -115,-7.6,0.54,0.74,Bradley -118.46,36
-Virginia,California,Virginia -12.5,Virginia -105,-11.24,0.45,3.5,California -120.86,6
+Virginia,California,Virginia -12.5,Virginia -105,-11.24,0.45,1.23,California -120.86,6
 Clemson,SMU,Clemson -4.5,Clemson -110,-1.97,0.4,7.13,SMU -146.99,0
 Colorado,Utah,Colorado -9.5,Colorado -112,-11.56,0.58,5.05,Colorado -137.41,38
-Loyola Chicago,Davidson,Loyola Chicago 1.5,Loyola Chicago -108,4.92,0.37,11.44,Davidson -172.92,0
+Loyola Chicago,Davidson,Loyola Chicago 1.5,Loyola Chicago -108,4.92,0.37,10.53,Davidson -172.92,0
 St. Thomas,South Dakota,St. Thomas -13.5,St. Thomas -110,-14.19,0.53,0.27,St. Thomas -111.18,29
-Boise St.,Grand Canyon,Boise St. -8.5,Boise St. -105,-8.19,0.49,0.05,Grand Canyon -104.81,16
+Boise St.,Grand Canyon,Boise St. -8.5,Boise St. -105,-8.19,0.49,2.31,Grand Canyon -104.81,16
