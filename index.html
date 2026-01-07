@@ -142,6 +142,21 @@
       const header = rows[0];
       const dataRows = rows.slice(1);
 
+      // Sort table by model edge (descending)
+      const edgeIdx = header.findIndex(h =>
+        h.toLowerCase().includes("edge")
+      );
+
+      if (edgeIdx >= 0) {
+        dataRows.sort((a, b) => {
+          const ea = Number(String(a[edgeIdx]).replace(/[%,$]/g, ''));
+          const eb = Number(String(b[edgeIdx]).replace(/[%,$]/g, ''));
+          return (Number.isFinite(eb) ? eb : -Infinity) -
+                 (Number.isFinite(ea) ? ea : -Infinity);
+        });
+      }
+
+
       table.innerHTML = '';
 
       const thead = document.createElement('thead');
