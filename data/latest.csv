@@ -1,9 +1,4 @@
 home team,away team,market spread,market odds,model consensus,model P(cover),model edge (%),model fair odds,# members cover
-Portland Pacific nan spread
-Oregon St.,Seattle,Oregon St. -11.5,Oregon St. -130.0,4.67,0.06,46.69,Seattle -1581.72,0
-Oregon,Ohio St.,Oregon 14.5,Oregon -130.0,1.52,0.89,32.46,Oregon -807.4,38
-Loyola Marymount,San Francisco,Loyola Marymount -4.5,Loyola Marymount -110.0,0.25,0.32,15.48,San Francisco -211.13,0
-Gonzaga,Santa Clara,Gonzaga -9.5,Gonzaga -130.0,-19.69,0.83,26.16,Gonzaga -477.58,38
 Toledo,Miami OH,Toledo 1.5,Toledo -115.0,1.84,0.49,0.06,Miami OH -105.26,14
 Manhattan,Canisius,Manhattan -6.5,Manhattan -112.0,-7.94,0.56,2.87,Manhattan -125.74,37
 Oakland,Cleveland St.,Oakland -14.5,Oakland -112.0,-15.67,0.54,1.56,Oakland -119.24,34
