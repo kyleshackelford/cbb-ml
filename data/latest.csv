@@ -1,10 +1,4 @@
 home team,away team,market spread,market odds,model consensus,model P(cover),model edge (%),model fair odds,# members cover
-Portland,Pacific,Portland 4.5,Portland -154,0.89,0.64,3.21,Portland -176.53,38
-CSUN,Cal Poly,CSUN -6.5,CSUN -210,-3.99,0.4,50.78,Cal Poly -149.19,0
-Oregon St.,Seattle,Oregon St. -11.5,Oregon St. -130,4.62,0.06,46.64,Seattle -1567.84,0
-Oregon,Ohio St.,Oregon 13.5,Oregon -115,1.71,0.87,33.25,Oregon -654.16,38
-Loyola Marymount,San Francisco,Loyola Marymount -2.5,Loyola Marymount -120,0.34,0.39,10.9,San Francisco -155.77,0
-Gonzaga,Santa Clara,Gonzaga -8.5,Gonzaga -120,-20.06,0.86,31.15,Gonzaga -599.27,38
 Toledo,Miami OH,Toledo 1.5,Toledo -115,2.0,0.48,0.71,Miami OH -108.02,13
 Manhattan,Canisius,Manhattan -6.5,Manhattan -112,-7.94,0.56,2.86,Manhattan -125.68,37
 Oakland,Cleveland St.,Oakland -14.5,Oakland -112,-15.64,0.54,1.46,Oakland -118.77,33
