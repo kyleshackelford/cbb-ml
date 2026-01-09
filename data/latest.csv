@@ -1,15 +1,20 @@
 home team,away team,market spread,market odds,model consensus,model P(cover),model edge (%),model fair odds,# members cover
-Toledo,Miami OH,Toledo 1.5,Toledo -115,2.0,0.48,0.71,Miami OH -108.02,13
-Manhattan,Canisius,Manhattan -6.5,Manhattan -112,-7.94,0.56,2.86,Manhattan -125.68,37
-Oakland,Cleveland St.,Oakland -14.5,Oakland -112,-15.64,0.54,1.46,Oakland -118.77,33
-Detroit Mercy,Wright St.,Detroit Mercy 4.5,Detroit Mercy -105,7.28,0.39,7.07,Wright St. -153.56,0
-Fairfield,Rider,Fairfield -8.5,Fairfield -110,-12.62,0.66,13.47,Fairfield -192.83,38
-Green Bay,IU Indy,Green Bay -8.5,Green Bay -108,-8.51,0.5,1.87,Green Bay -100.2,19
-Iona,Niagara,Iona -10.5,Iona -112,-12.85,0.59,6.05,Iona -143.17,38
-Sacred Heart,Marist,Sacred Heart 6.5,Sacred Heart -108,5.85,0.53,0.59,Sacred Heart -110.59,30
-Siena,Merrimack,Siena -5.5,Siena -115,-5.83,0.51,2.16,Siena -105.44,21
-Mount St. Mary's,Saint Peter's,Mount St. Mary's -1.5,Mount St. Mary's -102,3.74,0.3,16.06,Saint Peter's -235.46,0
-Bowling Green,Akron,Bowling Green 2.5,Bowling Green -108,0.6,0.57,5.4,Bowling Green -134.3,37
-Milwaukee,Northern Kentucky,Milwaukee -3.5,Milwaukee -105,-1.43,0.42,4.44,Northern Kentucky -137.68,1
-Minnesota,USC,Minnesota -4.5,Minnesota -105,-4.44,0.5,3.27,USC -100.89,22
-Colorado St.,UNLV,Colorado St. -7.5,Colorado St. -102,-10.58,0.62,11.41,Colorado St. -162.5,38
+Portland Pacific nan spread
+Oregon St.,Seattle,Oregon St. -11.5,Oregon St. -130.0,4.67,0.06,46.69,Seattle -1581.72,0
+Oregon,Ohio St.,Oregon 14.5,Oregon -130.0,1.52,0.89,32.46,Oregon -807.4,38
+Loyola Marymount,San Francisco,Loyola Marymount -4.5,Loyola Marymount -110.0,0.25,0.32,15.48,San Francisco -211.13,0
+Gonzaga,Santa Clara,Gonzaga -9.5,Gonzaga -130.0,-19.69,0.83,26.16,Gonzaga -477.58,38
+Toledo,Miami OH,Toledo 1.5,Toledo -115.0,1.84,0.49,0.06,Miami OH -105.26,14
+Manhattan,Canisius,Manhattan -6.5,Manhattan -112.0,-7.94,0.56,2.87,Manhattan -125.74,37
+Oakland,Cleveland St.,Oakland -14.5,Oakland -112.0,-15.67,0.54,1.56,Oakland -119.24,34
+Detroit Mercy,Wright St.,Detroit Mercy 4.5,Detroit Mercy -105.0,7.15,0.4,6.58,Wright St. -150.43,1
+Fairfield,Rider,Fairfield -8.5,Fairfield -110.0,-12.56,0.66,13.26,Fairfield -191.02,38
+Green Bay,IU Indy,Green Bay -8.5,Green Bay -108.0,-8.4,0.5,2.46,IU Indy -101.5,18
+Iona,Niagara,Iona -10.5,Iona -118.0,-12.82,0.59,4.66,Iona -142.68,38
+Sacred Heart,Marist,Sacred Heart 6.5,Sacred Heart -108.0,5.93,0.52,0.31,Sacred Heart -109.35,30
+Siena,Merrimack,Siena -5.5,Siena -115.0,-5.83,0.51,2.16,Siena -105.44,21
+Mount St. Mary's,Saint Peter's,Mount St. Mary's -1.5,Mount St. Mary's -102.0,3.95,0.29,16.78,Saint Peter's -243.72,0
+Bowling Green,Akron,Bowling Green 2.5,Bowling Green -108.0,0.51,0.58,5.75,Bowling Green -136.25,37
+Milwaukee,Northern Kentucky,Milwaukee -3.5,Milwaukee -105.0,-1.49,0.42,4.21,Northern Kentucky -136.4,2
+Minnesota,USC,Minnesota -4.5,Minnesota -105.0,-4.43,0.5,3.23,USC -101.06,21
+Colorado St.,UNLV,Colorado St. -7.5,Colorado St. -102.0,-10.15,0.6,9.79,Colorado St. -151.77,38
