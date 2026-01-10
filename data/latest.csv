@@ -1,4 +1,5 @@
 home team,away team,market spread,market odds,model consensus,model P(cover),model edge (%),model fair odds,# members cover
+Colorado St.,UNLV,Colorado St. 3.5,Colorado St. -120.0,-9.98,0.91,36.03,Colorado St. -961.49,38
 Louisville,Boston College,Louisville -21.5,Louisville -118.0,-23.05,0.56,1.5,Louisville -125.39,36
 Florida St.,N.C. State,Florida St. 4.5,Florida St. -105.0,4.97,0.48,1.71,N.C. State -107.39,10
 St. Bonaventure,Fordham,St. Bonaventure -9.5,St. Bonaventure -102.0,-8.6,0.47,0.71,Fordham -114.67,6
@@ -45,7 +46,7 @@ Nebraska Omaha,North Dakota St.,Nebraska Omaha 5.5,Nebraska Omaha -105.0,4.16,0.
 North Florida,Queens,North Florida 9.5,North Florida -105.0,9.09,0.52,0.34,North Florida -106.43,23
 Northeastern,Towson,Northeastern 1.5,Northeastern -105.0,-2.23,0.64,13.04,Northeastern -179.8,38
 Princeton,Yale,Princeton 8.5,Princeton -115.0,12.16,0.36,12.43,Yale -175.1,0
-South Carolina,Winthrop,South Carolina 5.5,South Carolina -110.0,-6.27,0.88,35.15,South Carolina -702.01,38
+USC Upstate,Winthrop,USC Upstate 5.5,USC Upstate -110.0,4.04,0.56,3.39,USC Upstate -126.09,38
 Michigan,Wisconsin,Michigan -19.5,Michigan -105.0,-22.3,0.6,8.77,Michigan -149.94,38
 Duke,SMU,Duke -13.5,Duke -105.0,-12.61,0.47,0.22,SMU -114.0,5
 Creighton,St. John's,Creighton -1.5,Creighton -105.0,2.25,0.36,10.32,St. John's -176.33,0
@@ -102,7 +103,7 @@ Charleston Hampton nan spread
 Eastern Washington Montana nan spread
 Missouri St. Florida nan spread
 Idaho Montana St. nan spread
-"Illinois St. Illinois Chicago, nan spread"
+Illinois St. Illinois Chicago nan spread
 Kennesaw St. Jacksonville St. nan spread
 McNeese Southeastern Louisiana nan spread
 Portland St. Sacramento St. nan spread
