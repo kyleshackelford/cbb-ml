@@ -1,22 +1,21 @@
 home team,away team,market spread,market odds,model consensus,model P(cover),model edge (%),model fair odds,# members cover
-Hawaii,UC Irvine,Hawaii -2.5,Hawaii 100,-5.69,0.63,12.75,Hawaii -168.45,38
-Richmond,Saint Joseph's,Richmond -8.5,Richmond -115,-11.23,0.61,7.17,Richmond -154.21,38
-Iowa,Illinois,Iowa -1.5,Iowa -105,-2.13,0.52,1.21,Iowa -110.21,31
-Iona,Canisius,Iona -11.5,Iona -110,-10.81,0.47,0.27,Canisius -111.18,9
-Detroit Mercy,Cleveland St.,Detroit Mercy -7.5,Detroit Mercy -105,-3.93,0.36,10.37,Cleveland St. -176.72,0
-Florida Atlantic,Memphis,Florida Atlantic -1.5,Florida Atlantic -120,-4.6,0.62,7.55,Florida Atlantic -163.85,38
-Rice,Charlotte,Rice 1.5,Rice -120,0.69,0.53,1.23,Rice -114.19,34
-East Carolina,UAB,East Carolina 8.5,East Carolina -110,9.98,0.44,3.34,UAB -125.83,3
-Robert Morris,Purdue Fort Wayne,Robert Morris -5.5,Robert Morris -102,-3.88,0.44,2.15,Purdue Fort Wayne -128.75,2
-Green Bay,Northern Kentucky,Green Bay 2.5,Green Bay -102,3.16,0.47,1.58,Northern Kentucky -110.75,12
-Manhattan,Niagara,Manhattan -6.5,Manhattan -118,-8.28,0.57,2.83,Manhattan -132.32,38
-Rider,Marist,Rider 10.5,Rider -105,12.86,0.41,5.46,Marist -143.57,1
-Saint Peter's,Merrimack,Saint Peter's -2.5,Saint Peter's -108,-1.95,0.48,0.64,Merrimack -109.18,12
-Mount St. Mary's,Siena,Mount St. Mary's 3.5,Mount St. Mary's -118,6.53,0.38,11.41,Siena -162.48,0
-Sacred Heart,Quinnipiac,Sacred Heart 5.5,Sacred Heart -110,4.03,0.56,3.39,Sacred Heart -126.08,36
-Milwaukee,IU Indy,Milwaukee -9.5,Milwaukee -112,-10.42,0.54,0.67,Milwaukee -115.07,32
-Wichita St.,North Texas,Wichita St. -6.5,Wichita St. -112,-6.67,0.51,2.16,Wichita St. -102.72,21
-Oakland,Wright St.,Oakland -4.5,Oakland -115,-3.3,0.45,3.37,Wright St. -120.22,3
-UCF,Cincinnati,UCF -3.5,UCF -110,-9.39,0.71,19.01,UCF -249.57,38
-Rutgers,Northwestern,Rutgers 4.5,Rutgers -110,6.34,0.43,4.66,Northwestern -132.76,0
-Washington,Ohio St.,Washington -2.5,Washington 102,-2.23,0.49,3.1,Ohio St. -104.2,14
+Rutgers Northwestern nan spread
+UCF Cincinnati nan spread
+Washington,Ohio St.,Washington -4.5,Washington -125.0,-1.9,0.4,11.15,Ohio St. -149.19,0
+Morgan St.,North Carolina Central,Morgan St. 1.5,Morgan St. -115.0,2.54,0.46,3.13,North Carolina Central -119.07,5
+Alabama St.,Alcorn St.,Alabama St. -7.5,Alabama St. -108.0,-12.53,0.69,17.03,Alabama St. -222.11,38
+American,Navy,American 1.5,American -112.0,3.92,0.41,7.51,Navy -146.48,0
+Prairie View A&M,Arkansas Pine Bluff,Prairie View A&M -2.5,Prairie View A&M -115.0,-5.49,0.62,8.34,Prairie View A&M -161.96,38
+Bethune Cookman,Southern,Bethune Cookman -3.5,Bethune Cookman -110.0,-3.61,0.5,1.94,Bethune Cookman -101.79,21
+Coppin St.,South Carolina St.,Coppin St. -1.5,Coppin St. -105.0,0.0,0.44,2.7,South Carolina St. -128.23,3
+Howard,Delaware St.,Howard -9.5,Howard -122.0,-9.2,0.49,1.72,Delaware St. -104.99,13
+Florida A&M,Grambling St.,Florida A&M 2.5,Florida A&M -110.0,2.87,0.48,0.84,Grambling St. -106.36,14
+Lamar,Houston Christian,Lamar -7.5,Lamar -105.0,-6.71,0.47,0.39,Houston Christian -113.2,5
+Stephen F. Austin,Incarnate Word,Stephen F. Austin -8.5,Stephen F. Austin -110.0,-10.26,0.57,4.49,Stephen F. Austin -131.87,38
+Norfolk St.,Maryland Eastern Shore,Norfolk St. -5.5,Norfolk St. -112.0,-4.88,0.48,0.57,Maryland Eastern Shore -110.51,10
+Southeastern Louisiana,New Orleans,Southeastern Louisiana -1.5,Southeastern Louisiana -115.0,-2.98,0.56,2.55,Southeastern Louisiana -127.49,38
+East Texas A&M,Texas A&M Corpus Chris,East Texas A&M 4.5,East Texas A&M -108.0,5.64,0.46,1.64,Texas A&M Corpus Chris -119.62,4
+McNeese,Nicholls,McNeese -13.5,McNeese -112.0,-15.22,0.57,3.82,McNeese -130.69,37
+Northwestern St.,UT Rio Grande Valley,Northwestern St. 2.5,Northwestern St. -102.0,1.89,0.52,1.93,Northwestern St. -110.19,30
+Alabama A&M,Jackson St.,Alabama A&M -6.5,Alabama A&M -102.0,-8.61,0.58,7.94,Alabama A&M -140.59,38
+Texas Southern,Mississippi Valley St.,Texas Southern -14.5,Texas Southern -102.0,-8.14,0.27,19.06,Mississippi Valley St. -272.91,0
