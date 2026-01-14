@@ -1,59 +1,59 @@
 home team,away team,market spread,market odds,model consensus,model P(cover),model edge (%),model fair odds,# members cover
-USC,Maryland,USC -10.5,USC 100,-10.83,0.51,1.34,USC -105.49,28
-San Francisco,Saint Mary's,San Francisco 13.5,San Francisco -105,3.18,0.84,32.63,San Francisco -519.23,38
-UNLV,Boise St.,UNLV -1.5,UNLV -105,-0.09,0.44,2.19,Boise St. -125.65,0
-Boston University,Lehigh,Boston University -1.5,Boston University -102,-7.94,0.74,23.17,Boston University -279.78,38
-Wofford,Chattanooga,Wofford -4.5,Wofford -120,-7.55,0.62,7.33,Wofford -162.32,38
-Western Carolina,East Tennessee St.,Western Carolina 6.5,Western Carolina -105,11.26,0.32,14.2,East Tennessee St. -209.44,0
-Rhode Island,VCU,Rhode Island 4.5,Rhode Island -110,3.89,0.52,0.12,Rhode Island -110.52,29
-Xavier,Butler,Xavier 1.5,Xavier -110,3.63,0.42,5.69,Butler -138.48,0
-Winthrop,High Point,Winthrop -2.5,Winthrop -110,3.28,0.28,19.51,High Point -255.79,0
-Purdue,Iowa,Purdue -9.5,Purdue -120,-12.08,0.59,4.71,Purdue -145.44,38
-Missouri,Auburn,Missouri 1.5,Missouri -118,5.12,0.36,13.56,Auburn -178.21,0
-Canisius,Niagara,Canisius -2.5,Canisius -112,-4.09,0.56,3.54,Canisius -129.2,36
-Charlotte,Tulsa,Charlotte 4.5,Charlotte -115,6.11,0.44,5.17,Tulsa -129.32,1
-Cincinnati,Colorado,Cincinnati -7.5,Cincinnati -108,-0.69,0.26,21.28,Colorado -286.23,0
-Marshall,Coastal Carolina,Marshall -8.5,Marshall -110,-9.47,0.54,1.37,Marshall -116.2,30
-George Washington,Davidson,George Washington -11.5,George Washington -108,-12.27,0.53,1.08,George Washington -112.77,32
-South Florida,East Carolina,South Florida -18.5,South Florida -118,-22.01,0.63,9.22,South Florida -172.81,38
-Fairfield,Manhattan,Fairfield -5.5,Fairfield -115,-6.97,0.56,2.32,Fairfield -126.29,36
-Kennesaw St.,FIU,Kennesaw St. -3.5,Kennesaw St. -112,-1.88,0.43,4.81,FIU -131.15,1
-Samford,Furman,Samford -1.5,Samford -108,2.15,0.36,11.24,Furman -178.28,0
-Georgia,Mississippi,Georgia -10.5,Georgia -102,-12.81,0.59,8.45,Georgia -143.57,38
-Georgia Tech,Pittsburgh,Georgia Tech 1.5,Georgia Tech -118,0.87,0.53,1.6,Georgia Tech -110.64,31
-Indiana St.,Illinois St.,Indiana St. 6.5,Indiana St. -115,7.78,0.45,3.62,Illinois St. -121.44,3
-Rider,Iona,Rider 7.5,Rider -110,8.41,0.47,1.11,Iona -115.0,9
-Jacksonville St.,Sam Houston St.,Jacksonville St. -1.5,Jacksonville St. -102,1.39,0.39,7.27,Sam Houston St. -159.03,1
-LSU,Kentucky,LSU 3.5,LSU -108,2.66,0.53,1.33,LSU -113.91,30
-Richmond,La Salle,Richmond -8.5,Richmond -118,-9.63,0.54,0.36,Richmond -119.75,36
-Quinnipiac,Saint Peter's,Quinnipiac -7.5,Quinnipiac -115,-6.56,0.46,2.55,Saint Peter's -116.32,7
-Siena,Sacred Heart,Siena -8.5,Siena -110,-11.64,0.62,9.88,Siena -165.0,38
-Saint Joseph's,St. Bonaventure,Saint Joseph's 1.5,Saint Joseph's -105,1.37,0.51,0.71,Saint Joseph's -102.08,22
-Troy,Southern Miss,Troy -8.5,Troy -118,-5.1,0.37,12.93,Southern Miss -173.41,0
-Louisiana Tech,Middle Tennessee,Louisiana Tech 3.5,Louisiana Tech -108,2.64,0.53,1.49,Louisiana Tech -114.67,32
-Western Kentucky,Missouri St.,Western Kentucky -6.5,Western Kentucky -115,-5.68,0.47,2.14,Missouri St. -114.42,8
-Tulane,UAB,Tulane 2.5,Tulane -110,3.5,0.46,1.54,UAB -117.0,4
-Southern Illinois,Drake,Southern Illinois -5.5,Southern Illinois -115,-9.0,0.63,9.6,Southern Illinois -170.95,38
-Saint Louis,Fordham,Saint Louis -19.5,Saint Louis -105,-18.91,0.48,1.31,Fordham -109.11,12
-Kansas St.,UCF,Kansas St. -2.5,Kansas St. -105,-1.31,0.45,1.09,UCF -120.14,1
-Texas St.,Louisiana,Texas St. -9.5,Texas St. -102,-9.82,0.51,0.8,Texas St. -105.3,25
-Memphis,Temple,Memphis -7.5,Memphis -112,-8.37,0.53,0.6,Memphis -114.74,30
-North Dakota St.,South Dakota St.,North Dakota St. -5.5,North Dakota St. -110,-7.07,0.56,3.85,North Dakota St. -128.5,37
-UTSA,Rice,UTSA 5.5,UTSA -108,3.22,0.59,7.4,UTSA -145.81,38
-Wyoming,San Diego St.,Wyoming 1.5,Wyoming -105,-2.7,0.66,15.19,Wyoming -197.75,38
-Northwestern,Illinois,Northwestern 8.5,Northwestern 100,6.93,0.56,5.79,Northwestern -126.21,36
-Penn St.,UCLA,Penn St. 3.5,Penn St. -108,1.29,0.58,6.39,Penn St. -139.89,38
-Arkansas,South Carolina,Arkansas -10.5,Arkansas -112,-14.64,0.65,12.1,Arkansas -185.16,38
-Denver,Oral Roberts,Denver -7.5,Denver -118,-5.56,0.42,7.03,Oral Roberts -135.43,0
-Stanford,North Carolina,Stanford 2.5,Stanford -112,1.69,0.53,0.36,Stanford -113.61,32
-Pepperdine,Portland,Pepperdine 1.5,Pepperdine -108,0.71,0.53,1.19,Pepperdine -113.27,31
-Texas,Vanderbilt,Texas 5.5,Texas -112,9.1,0.37,11.51,Vanderbilt -173.48,0
-Texas Tech,Utah,Texas Tech -17.5,Texas Tech -110,-16.34,0.46,1.78,Utah -118.17,5
-SMU,Virginia Tech,SMU -7.5,SMU -105,-8.23,0.53,1.57,SMU -111.81,32
-Oregon St.,Loyola Marymount,Oregon St. 1.5,Oregon St. -115,-0.08,0.56,2.72,Oregon St. -128.36,35
-Utah St.,Nevada,Utah St. -12.5,Utah St. -115,-14.8,0.59,5.44,Utah St. -143.47,38
-Santa Clara,Pacific,Santa Clara -13.5,Santa Clara -108,-11.07,0.41,6.38,Pacific -145.17,0
-Arizona,Arizona St.,Arizona -21.5,Arizona -115,-21.25,0.49,0.29,Arizona St. -103.78,13
-Washington,Michigan,Washington 12.5,Washington -112,13.07,0.48,0.13,Michigan -108.58,12
-BYU,TCU,BYU -12.5,BYU -108,-14.05,0.56,3.87,BYU -126.22,36
-California,Duke,California 12.5,California -115,13.68,0.46,3.11,Duke -118.94,4
+USC,Maryland,USC -8.5,USC 100,-10.84,0.59,9.27,USC -145.52,38
+San Francisco,Saint Mary's,San Francisco 8.5,San Francisco -120,3.19,0.7,15.11,San Francisco -229.51,38
+UNLV,Boise St.,UNLV -1.5,UNLV -110,-0.07,0.44,3.36,Boise St. -125.94,0
+Boston University,Lehigh,Boston University -1.5,Boston University -102,-7.93,0.74,23.16,Boston University -279.57,38
+Wofford,Chattanooga,Wofford -4.5,Wofford -120,-7.55,0.62,7.33,Wofford -162.3,38
+Western Carolina,East Tennessee St.,Western Carolina 6.5,Western Carolina -105,11.28,0.32,14.28,East Tennessee St. -210.25,0
+Rhode Island,VCU,Rhode Island 4.5,Rhode Island -110,3.91,0.52,0.02,Rhode Island -110.1,29
+Xavier,Butler,Xavier 1.5,Xavier -110,3.66,0.42,5.78,Butler -138.99,0
+Winthrop,High Point,Winthrop -2.5,Winthrop -105,3.28,0.28,18.42,High Point -255.94,0
+Purdue,Iowa,Purdue -10.5,Purdue 102,-12.07,0.56,5.18,Purdue -125.63,32
+Missouri,Auburn,Missouri 1.5,Missouri -118,5.13,0.36,13.6,Auburn -178.49,0
+Canisius,Niagara,Canisius -2.5,Canisius -112,-4.11,0.56,3.64,Canisius -129.72,36
+Charlotte,Tulsa,Charlotte 4.5,Charlotte -115,6.11,0.44,5.2,Tulsa -129.48,1
+Cincinnati,Colorado,Cincinnati -7.5,Cincinnati -108,-0.69,0.26,21.28,Colorado -286.3,0
+Marshall,Coastal Carolina,Marshall -8.5,Marshall -110,-9.48,0.54,1.41,Marshall -116.39,30
+George Washington,Davidson,George Washington -11.5,George Washington -108,-12.28,0.53,1.11,George Washington -112.92,32
+South Florida,East Carolina,South Florida -18.5,South Florida -118,-22.01,0.63,9.23,South Florida -172.94,38
+Fairfield,Manhattan,Fairfield -5.5,Fairfield -115,-6.96,0.56,2.28,Fairfield -126.1,36
+Kennesaw St.,FIU,Kennesaw St. -3.5,Kennesaw St. -112,-1.86,0.43,4.9,FIU -131.58,1
+Samford,Furman,Samford -1.5,Samford -108,2.18,0.36,11.37,Furman -179.35,0
+Georgia,Mississippi,Georgia -10.5,Georgia -102,-12.8,0.59,8.41,Georgia -143.36,38
+Georgia Tech,Pittsburgh,Georgia Tech 1.5,Georgia Tech -118,0.88,0.52,1.67,Georgia Tech -110.34,31
+Indiana St.,Illinois St.,Indiana St. 5.5,Indiana St. -105,7.8,0.41,5.21,Illinois St. -142.13,1
+Rider,Iona,Rider 7.5,Rider -110,8.45,0.46,1.25,Iona -115.64,8
+Jacksonville St.,Sam Houston St.,Jacksonville St. -1.5,Jacksonville St. -102,1.4,0.39,7.33,Sam Houston St. -159.46,1
+LSU,Kentucky,LSU 4.5,LSU -112,2.67,0.57,4.18,LSU -132.62,38
+Richmond,La Salle,Richmond -8.5,Richmond -118,-9.63,0.55,0.38,Richmond -119.81,36
+Quinnipiac,Saint Peter's,Quinnipiac -7.5,Quinnipiac -115,-6.56,0.46,2.55,Saint Peter's -116.29,6
+Siena,Sacred Heart,Siena -8.5,Siena -110,-11.65,0.62,9.9,Siena -165.09,38
+Saint Joseph's,St. Bonaventure,Saint Joseph's 1.5,Saint Joseph's -105,1.4,0.5,0.79,Saint Joseph's -101.73,20
+Troy,Southern Miss,Troy -8.5,Troy -118,-5.1,0.37,12.96,Southern Miss -173.63,0
+Louisiana Tech,Middle Tennessee,Louisiana Tech 3.5,Louisiana Tech -108,2.66,0.53,1.42,Louisiana Tech -114.31,32
+Western Kentucky,Missouri St.,Western Kentucky -6.5,Western Kentucky -115,-5.68,0.47,2.18,Missouri St. -114.59,8
+Tulane,UAB,Tulane 2.5,Tulane -110,3.51,0.46,1.54,UAB -117.02,4
+Southern Illinois,Drake,Southern Illinois -5.5,Southern Illinois -115,-9.01,0.63,9.66,Southern Illinois -171.35,38
+Saint Louis,Fordham,Saint Louis -19.5,Saint Louis -105,-18.92,0.48,1.34,Fordham -108.98,13
+Kansas St.,UCF,Kansas St. -2.5,Kansas St. -105,-1.3,0.45,1.13,UCF -120.36,1
+Texas St.,Louisiana,Texas St. -9.5,Texas St. -102,-9.82,0.51,0.8,Texas St. -105.31,25
+Memphis,Temple,Memphis -7.5,Memphis -112,-8.38,0.53,0.65,Memphis -114.97,30
+North Dakota St.,South Dakota St.,North Dakota St. -5.5,North Dakota St. -110,-7.07,0.56,3.85,North Dakota St. -128.46,37
+UTSA,Rice,UTSA 5.5,UTSA -108,3.25,0.59,7.28,UTSA -145.09,38
+Wyoming,San Diego St.,Wyoming 1.5,Wyoming -105,-2.68,0.66,15.14,Wyoming -197.3,38
+Northwestern,Illinois,Northwestern 8.5,Northwestern 100,6.93,0.56,5.77,Northwestern -126.08,36
+Penn St.,UCLA,Penn St. 3.5,Penn St. -108,1.3,0.58,6.34,Penn St. -139.62,38
+Arkansas,South Carolina,Arkansas -10.5,Arkansas -112,-14.65,0.65,12.13,Arkansas -185.4,38
+Denver,Oral Roberts,Denver -7.5,Denver -118,-5.54,0.42,7.08,Oral Roberts -135.74,0
+Stanford,North Carolina,Stanford 2.5,Stanford -112,1.69,0.53,0.36,Stanford -113.65,32
+Pepperdine,Portland,Pepperdine 1.5,Pepperdine -108,0.74,0.53,1.07,Pepperdine -112.76,31
+Texas,Vanderbilt,Texas 5.5,Texas -112,9.1,0.37,11.52,Vanderbilt -173.58,0
+Texas Tech,Utah,Texas Tech -17.5,Texas Tech -110,-16.35,0.46,1.76,Utah -118.05,5
+SMU,Virginia Tech,SMU -7.5,SMU -105,-8.23,0.53,1.58,SMU -111.86,32
+Oregon St.,Loyola Marymount,Oregon St. 1.5,Oregon St. -115,-0.06,0.56,2.64,Oregon St. -127.95,35
+Utah St.,Nevada,Utah St. -12.5,Utah St. -115,-14.82,0.59,5.5,Utah St. -143.85,38
+Santa Clara,Pacific,Santa Clara -13.5,Santa Clara -108,-11.07,0.41,6.4,Pacific -145.27,0
+Arizona,Arizona St.,Arizona -21.5,Arizona -115,-21.26,0.49,0.33,Arizona St. -103.61,13
+Washington,Michigan,Washington 12.5,Washington -112,13.09,0.48,0.2,Michigan -108.88,12
+BYU,TCU,BYU -12.5,BYU -108,-14.06,0.56,3.88,BYU -126.28,36
+California,Duke,California 12.5,California -115,13.69,0.46,3.15,Duke -119.17,4
