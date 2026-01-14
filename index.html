@@ -94,19 +94,18 @@
 
   <p id="status">Loading data/latest.csv…</p>
 
-  <h2>Daily game figures</h2>
+  <table id="tbl"></table>
 
+  <h2>Daily game figures</h2>
+  
   <div style="display:flex; gap:10px; align-items:center; margin-bottom:10px; flex-wrap:wrap;">
     <label for="gameSelect"><strong>Select game:</strong></label>
     <select id="gameSelect" style="padding:6px 8px; font-size:14px; min-width:320px;"></select>
   </div>
-
+      
   <img id="gameImg"
        alt="Selected game figure"
        style="max-width:100%; height:auto; border:1px solid #ddd; display:none;">
-
-
-  <table id="tbl"></table>
 
   <script>
     function parseCSV(text) {
