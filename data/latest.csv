@@ -1,6 +1,6 @@
 home team,away team,market spread,market odds,model consensus,model P(cover),model edge (%),model fair odds,# members cover
-USC,Maryland,USC -9.5,USC -115,-10.83,0.55,1.82,USC -123.73,38
-San Francisco,Saint Mary's,San Francisco 14.5,San Francisco -115,3.18,0.86,32.54,San Francisco -615.56,38
+USC,Maryland,USC -10.5,USC 100,-10.83,0.51,1.34,USC -105.49,28
+San Francisco,Saint Mary's,San Francisco 13.5,San Francisco -105,3.18,0.84,32.63,San Francisco -519.23,38
 UNLV,Boise St.,UNLV -1.5,UNLV -105,-0.09,0.44,2.19,Boise St. -125.65,0
 Boston University,Lehigh,Boston University -1.5,Boston University -102,-7.94,0.74,23.17,Boston University -279.78,38
 Wofford,Chattanooga,Wofford -4.5,Wofford -120,-7.55,0.62,7.33,Wofford -162.32,38

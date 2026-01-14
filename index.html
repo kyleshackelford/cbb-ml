@@ -94,6 +94,18 @@
 
   <p id="status">Loading data/latest.csv…</p>
 
+  <h2>Daily game figures</h2>
+
+  <div style="display:flex; gap:10px; align-items:center; margin-bottom:10px; flex-wrap:wrap;">
+    <label for="gameSelect"><strong>Select game:</strong></label>
+    <select id="gameSelect" style="padding:6px 8px; font-size:14px; min-width:320px;"></select>
+  </div>
+
+  <img id="gameImg"
+       alt="Selected game figure"
+       style="max-width:100%; height:auto; border:1px solid #ddd; display:none;">
+
+
   <table id="tbl"></table>
 
   <script>
@@ -121,6 +133,52 @@
       if (field.length || row.length) { row.push(field); rows.push(row); }
       return rows;
     }
+
+    async function loadGameFigures() {
+      const select = document.getElementById("gameSelect");
+      const img = document.getElementById("gameImg");
+
+      // If the HTML block isn't on the page (shouldn't happen), bail safely
+      if (!select || !img) return;
+
+      const resp = await fetch("daily_games/manifest.json", { cache: "no-store" });
+      if (!resp.ok) {
+        // No manifest => just hide the image UI quietly
+        select.innerHTML = "";
+        img.style.display = "none";
+        return;
+      }
+
+      const games = await resp.json();
+      if (!Array.isArray(games) || games.length === 0) {
+        select.innerHTML = "";
+        img.style.display = "none";
+        return;
+      }  
+
+      // Fill dropdown
+      select.innerHTML = "";
+      for (const g of games) {
+        const opt = document.createElement("option");
+        opt.value = g.file;                 // e.g. "daily_games/BYU_TCU.png"
+        opt.textContent = g.label || g.file; // e.g. "TCU at BYU"
+        select.appendChild(opt);
+      }
+
+      function showSelected() {
+        const file = select.value;
+        if (!file) return;
+        img.src = file + "?v=" + Date.now(); // cache-bust so it updates daily
+        img.style.display = "block";
+      }
+
+      select.onchange = showSelected;
+
+      // Show first image by default
+      select.selectedIndex = 0;
+      showSelected();
+    }
+
 
     async function main() {
       const status = document.getElementById('status');
@@ -185,6 +243,7 @@
       table.appendChild(tbody);
 
       status.textContent = `Loaded ${dataRows.length} games • ${new Date().toLocaleString()}`;
+      await loadGameFigures();
     }
 
     main();
