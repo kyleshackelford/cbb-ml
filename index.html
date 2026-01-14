@@ -168,7 +168,7 @@
       function showSelected() {
         const file = select.value;
         if (!file) return;
-        img.src = file + "?v=" + Date.now(); // cache-bust so it updates daily
+        img.src = encodeURI(file) + "?v=" + Date.now();
         img.style.display = "block";
       }
 
