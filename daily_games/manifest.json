@@ -28,8 +28,32 @@
     "label": "Colorado St. at Boise St."
   },
   {
+    "file": "daily_games/Canisius_Mount St. Mary's.png",
+    "label": "Mount St. Mary's at Canisius"
+  },
+  {
+    "file": "daily_games/Hofstra_Elon.png",
+    "label": "Elon at Hofstra"
+  },
+  {
+    "file": "daily_games/Illinois_Minnesota.png",
+    "label": "Minnesota at Illinois"
+  },
+  {
+    "file": "daily_games/N.C. State_Georgia Tech.png",
+    "label": "Georgia Tech at N.C. State"
+  },
+  {
     "file": "daily_games/Tennessee_Kentucky.png",
     "label": "Kentucky at Tennessee"
+  },
+  {
+    "file": "daily_games/Virginia Tech_Notre Dame.png",
+    "label": "Notre Dame at Virginia Tech"
+  },
+  {
+    "file": "daily_games/Seton Hall_Butler.png",
+    "label": "Butler at Seton Hall"
   },
   {
     "file": "daily_games/Georgetown_Connecticut.png",
@@ -40,11 +64,223 @@
     "label": "Virginia at SMU"
   },
   {
+    "file": "daily_games/Fordham_Duquesne.png",
+    "label": "Duquesne at Fordham"
+  },
+  {
+    "file": "daily_games/Appalachian St._Old Dominion.png",
+    "label": "Old Dominion at Appalachian St."
+  },
+  {
+    "file": "daily_games/Bowling Green_Eastern Michigan.png",
+    "label": "Eastern Michigan at Bowling Green"
+  },
+  {
+    "file": "daily_games/Miami OH_Buffalo.png",
+    "label": "Buffalo at Miami OH"
+  },
+  {
+    "file": "daily_games/Western Carolina_Chattanooga.png",
+    "label": "Chattanooga at Western Carolina"
+  },
+  {
     "file": "daily_games/Oklahoma_Alabama.png",
     "label": "Alabama at Oklahoma"
   },
   {
     "file": "daily_games/Ohio St._UCLA.png",
     "label": "UCLA at Ohio St."
+  },
+  {
+    "file": "daily_games/Akron_Western Michigan.png",
+    "label": "Western Michigan at Akron"
+  },
+  {
+    "file": "daily_games/Illinois St._Bradley.png",
+    "label": "Bradley at Illinois St."
+  },
+  {
+    "file": "daily_games/Brown_Columbia.png",
+    "label": "Columbia at Brown"
+  },
+  {
+    "file": "daily_games/Cincinnati_Iowa St..png",
+    "label": "Iowa St. at Cincinnati"
+  },
+  {
+    "file": "daily_games/Yale_Cornell.png",
+    "label": "Cornell at Yale"
+  },
+  {
+    "file": "daily_games/Delaware_New Mexico St..png",
+    "label": "New Mexico St. at Delaware"
+  },
+  {
+    "file": "daily_games/Samford_East Tennessee St..png",
+    "label": "East Tennessee St. at Samford"
+  },
+  {
+    "file": "daily_games/Marist_Fairfield.png",
+    "label": "Fairfield at Marist"
+  },
+  {
+    "file": "daily_games/FIU_Sam Houston St..png",
+    "label": "Sam Houston St. at FIU"
+  },
+  {
+    "file": "daily_games/Harvard_Princeton.png",
+    "label": "Princeton at Harvard"
+  },
+  {
+    "file": "daily_games/Manhattan_Siena.png",
+    "label": "Siena at Manhattan"
+  },
+  {
+    "file": "daily_games/North Dakota_South Dakota.png",
+    "label": "South Dakota at North Dakota"
+  },
+  {
+    "file": "daily_games/North Dakota St._St. Thomas.png",
+    "label": "St. Thomas at North Dakota St."
+  },
+  {
+    "file": "daily_games/Saint Peter's_Rider.png",
+    "label": "Rider at Saint Peter's"
+  },
+  {
+    "file": "daily_games/Boston College_Syracuse.png",
+    "label": "Syracuse at Boston College"
+  },
+  {
+    "file": "daily_games/Vanderbilt_Florida.png",
+    "label": "Florida at Vanderbilt"
+  },
+  {
+    "file": "daily_games/Wisconsin_Rutgers.png",
+    "label": "Rutgers at Wisconsin"
+  },
+  {
+    "file": "daily_games/Utah_TCU.png",
+    "label": "TCU at Utah"
+  },
+  {
+    "file": "daily_games/Indiana_Iowa.png",
+    "label": "Iowa at Indiana"
+  },
+  {
+    "file": "daily_games/Clemson_Miami FL.png",
+    "label": "Miami FL at Clemson"
+  },
+  {
+    "file": "daily_games/Grand Canyon_Utah St..png",
+    "label": "Utah St. at Grand Canyon"
+  },
+  {
+    "file": "daily_games/La Salle_St. Bonaventure.png",
+    "label": "St. Bonaventure at La Salle"
+  },
+  {
+    "file": "daily_games/Illinois Chicago_Drake.png",
+    "label": "Drake at Illinois Chicago"
+  },
+  {
+    "file": "daily_games/Liberty_UTEP.png",
+    "label": "UTEP at Liberty"
+  },
+  {
+    "file": "daily_games/Northern Illinois_Massachusetts.png",
+    "label": "Massachusetts at Northern Illinois"
+  },
+  {
+    "file": "daily_games/Merrimack_Quinnipiac.png",
+    "label": "Quinnipiac at Merrimack"
+  },
+  {
+    "file": "daily_games/Valparaiso_Northern Iowa.png",
+    "label": "Northern Iowa at Valparaiso"
+  },
+  {
+    "file": "daily_games/LSU_Missouri.png",
+    "label": "Missouri at LSU"
+  },
+  {
+    "file": "daily_games/Air Force_Nevada.png",
+    "label": "Nevada at Air Force"
+  },
+  {
+    "file": "daily_games/Little Rock_Western Illinois.png",
+    "label": "Western Illinois at Little Rock"
+  },
+  {
+    "file": "daily_games/Marshall_James Madison.png",
+    "label": "James Madison at Marshall"
+  },
+  {
+    "file": "daily_games/UCF_Arizona.png",
+    "label": "Arizona at UCF"
+  },
+  {
+    "file": "daily_games/Georgia_Arkansas.png",
+    "label": "Arkansas at Georgia"
+  },
+  {
+    "file": "daily_games/Oregon_Michigan.png",
+    "label": "Michigan at Oregon"
+  },
+  {
+    "file": "daily_games/California_North Carolina.png",
+    "label": "North Carolina at California"
+  },
+  {
+    "file": "daily_games/Northwestern_Nebraska.png",
+    "label": "Nebraska at Northwestern"
+  },
+  {
+    "file": "daily_games/Florida St._Wake Forest.png",
+    "label": "Wake Forest at Florida St."
+  },
+  {
+    "file": "daily_games/Washington_Michigan St..png",
+    "label": "Michigan St. at Washington"
+  },
+  {
+    "file": "daily_games/Texas_Texas A&M.png",
+    "label": "Texas A&M at Texas"
+  },
+  {
+    "file": "daily_games/West Virginia_Colorado.png",
+    "label": "Colorado at West Virginia"
+  },
+  {
+    "file": "daily_games/Stanford_Duke.png",
+    "label": "Duke at Stanford"
+  },
+  {
+    "file": "daily_games/USC_Purdue.png",
+    "label": "Purdue at USC"
+  },
+  {
+    "file": "daily_games/Auburn_South Carolina.png",
+    "label": "South Carolina at Auburn"
+  },
+  {
+    "file": "daily_games/Texas Tech_BYU.png",
+    "label": "BYU at Texas Tech"
+  },
+  {
+    "file": "daily_games/Villanova_St. John's.png",
+    "label": "St. John's at Villanova"
+  },
+  {
+    "file": "daily_games/Pittsburgh_Louisville.png",
+    "label": "Louisville at Pittsburgh"
+  },
+  {
+    "file": "daily_games/Mississippi St._Mississippi.png",
+    "label": "Mississippi at Mississippi St."
+  },
+  {
+    "file": "daily_games/Oklahoma St._Kansas St..png",
+    "label": "Kansas St. at Oklahoma St."
   }
 ]
