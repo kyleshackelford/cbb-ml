@@ -1,50 +1,20 @@
 home team,away team,market spread,market odds,model consensus,model P(cover),model edge (%),model fair odds,# members cover
-Bryant,UMBC,Bryant -1.5,Bryant -102,2.73,0.34,11.64,UMBC -192.11,0
-Liberty,New Mexico St.,Liberty -9.5,Liberty -108,-8.94,0.48,0.74,New Mexico St. -108.72,10
-VMI,Mercer,VMI 8.5,VMI -108,11.66,0.38,9.18,Mercer -163.25,0
-UMass Lowell,NJIT,UMass Lowell -8.5,UMass Lowell -105,-8.14,0.49,2.08,NJIT -105.8,13
-Albany,Binghamton,Albany -7.5,Albany -115,-10.87,0.63,9.51,Albany -170.28,38
-Appalachian St.,James Madison,Appalachian St. -1.5,Appalachian St. -112,-2.11,0.52,0.34,Appalachian St. -110.49,28
-IU Indy,Robert Morris,IU Indy 5.5,IU Indy -108,5.36,0.51,1.35,IU Indy -102.32,18
-Cleveland St.,Green Bay,Cleveland St. 4.5,Cleveland St. -118,2.47,0.58,4.03,Cleveland St. -139.02,37
-Delaware,UTEP,Delaware -1.5,Delaware -118,-6.61,0.69,15.34,Delaware -227.54,38
-Northern Kentucky,Detroit Mercy,Northern Kentucky -9.5,Northern Kentucky -120,-9.04,0.48,1.8,Detroit Mercy -107.49,11
-Monmouth,Drexel,Monmouth -5.5,Monmouth -110,-8.24,0.61,8.45,Monmouth -155.27,38
-Northeastern,Elon,Northeastern 2.5,Northeastern -105,0.95,0.56,4.91,Northeastern -127.94,37
-Florida Gulf Coast,Queens,Florida Gulf Coast -1.5,Florida Gulf Coast -112,-3.26,0.57,4.06,Florida Gulf Coast -131.95,36
-Georgia Southern,Old Dominion,Georgia Southern -6.5,Georgia Southern -105,-5.41,0.46,0.88,Old Dominion -119.15,2
-Stony Brook,Hofstra,Stony Brook 7.5,Stony Brook -110,7.64,0.49,1.87,Hofstra -102.07,14
-Vermont,Maine,Vermont -13.5,Vermont -105,-13.63,0.5,0.72,Vermont -102.02,23
-Milwaukee,Oakland,Milwaukee 2.5,Milwaukee -108,0.4,0.58,6.27,Milwaukee -139.19,38
-North Alabama,North Florida,North Alabama -9.5,North Alabama -105,-10.44,0.54,2.49,North Alabama -116.04,33
-William & Mary,North Carolina A&T,William & Mary -13.5,William & Mary -112,-13.17,0.49,0.65,North Carolina A&T -105.24,14
-Stetson,West Georgia,Stetson 3.5,Stetson -118,2.48,0.54,0.18,Stetson -117.16,34
-UNC Greensboro,The Citadel,UNC Greensboro -8.5,UNC Greensboro -120,-9.01,0.52,2.49,UNC Greensboro -108.56,28
-Wright St.,Youngstown St.,Wright St. -6.5,Wright St. -102,-7.13,0.53,2.01,Wright St. -110.57,32
-Central Arkansas,Jacksonville,Central Arkansas -8.5,Central Arkansas -108,-8.1,0.48,1.3,Jacksonville -106.3,12
-Abilene Christian,Cal Baptist,Abilene Christian -1.5,Abilene Christian -115,1.76,0.37,12.0,Cal Baptist -171.86,0
-South Alabama,Arkansas St.,South Alabama 3.5,South Alabama -115,-5.92,0.83,29.65,South Alabama -493.04,38
-Little Rock,Eastern Illinois,Little Rock -6.5,Little Rock -105,-1.39,0.3,16.14,Eastern Illinois -229.22,0
-Austin Peay,Eastern Kentucky,Austin Peay -7.5,Austin Peay -108,-11.55,0.65,13.47,Austin Peay -188.96,38
-Lipscomb,Bellarmine,Lipscomb -10.5,Lipscomb -105,-8.74,0.43,3.07,Bellarmine -130.18,0
-Towson,Charleston,Towson -1.5,Towson -110,-0.05,0.44,3.27,Charleston -125.5,4
-North Dakota,St. Thomas,North Dakota 8.5,North Dakota -102,10.04,0.44,1.62,St. Thomas -125.98,5
-South Dakota,Kansas City,South Dakota -7.5,South Dakota -105,-6.81,0.47,0.71,Kansas City -111.76,9
-Tennessee St.,Morehead St.,Tennessee St. -8.5,Tennessee St. -108,-7.42,0.46,1.52,Morehead St. -119.05,3
-Tennessee Martin,SIUE,Tennessee Martin -8.5,Tennessee Martin -102,-7.76,0.47,1.02,SIUE -113.25,10
-Tennessee Tech,Southern Indiana,Tennessee Tech -5.5,Tennessee Tech -112,-3.16,0.41,7.56,Southern Indiana -146.83,0
-Southern Utah,Tarleton St.,Southern Utah 4.5,Southern Utah -108,8.84,0.33,13.96,Tarleton St. -201.12,0
-UC Davis,Cal St. Fullerton,UC Davis -3.5,UC Davis -110,-4.09,0.52,0.06,UC Davis -109.72,32
-Weber St.,Eastern Washington,Weber St. -4.5,Weber St. -115,-10.12,0.71,17.8,Weber St. -248.34,38
-Florida Atlantic,Wichita St.,Florida Atlantic -4.5,Florida Atlantic -112,-2.28,0.41,6.67,Wichita St. -141.53,1
-Idaho St.,Idaho,Idaho St. -2.5,Idaho St. -110,-4.93,0.6,7.24,Idaho St. -147.64,38
-Southeast Missouri,Lindenwood,Southeast Missouri -6.5,Southeast Missouri -110,-6.2,0.49,1.19,Lindenwood -104.89,13
-Utah Tech,UT Arlington,Utah Tech -1.5,Utah Tech -105,-0.98,0.48,1.41,UT Arlington -108.66,7
-Cal St. Bakersfield,UC Santa Barbara,Cal St. Bakersfield 6.5,Cal St. Bakersfield -102,2.59,0.66,15.15,Cal St. Bakersfield -191.08,38
-UC San Diego,CSUN,UC San Diego -7.5,UC San Diego -110,-11.56,0.65,12.93,UC San Diego -188.27,38
-Cal Poly,Hawaii,Cal Poly 5.5,Cal Poly -110,7.0,0.44,3.56,Hawaii -126.96,2
-Washington St.,Gonzaga,Washington St. 17.5,Washington St. -110,18.1,0.48,0.25,Gonzaga -108.89,11
-Long Beach St.,UC Riverside,Long Beach St. -4.5,Long Beach St. -112,-7.53,0.61,8.66,Long Beach St. -159.65,38
-Portland St.,Northern Colorado,Portland St. -2.5,Portland St. -115,-5.82,0.63,9.21,Portland St. -168.05,38
-Sacramento St.,Northern Arizona,Sacramento St. -3.5,Sacramento St. -102,-1.67,0.43,2.97,Northern Arizona -133.08,0
-Seattle,San Diego,Seattle -9.5,Seattle -102,-8.6,0.47,0.64,San Diego -115.02,4
+Providence,Creighton,Providence 1.5,Providence -118.0,-3.54,0.68,13.81,Providence -211.86,38
+Kent St.,Toledo,Kent St. -5.5,Kent St. -105.0,-1.69,0.35,11.28,Toledo -183.86,0
+Kansas,Baylor,Kansas -7.5,Kansas -110.0,-8.34,0.53,0.74,Kansas -113.3,36
+Ball St.,Ohio,Ball St. 5.5,Ball St. -108.0,1.01,0.67,15.13,Ball St. -203.52,38
+Dayton,Loyola Chicago,Dayton -16.5,Dayton -105.0,-18.6,0.58,6.99,Dayton -139.28,38
+DePaul,Marquette,DePaul -3.5,DePaul -115.0,-3.35,0.49,0.65,Marquette -102.3,15
+Boise St.,Colorado St.,Boise St. -5.5,Boise St. -108.0,-3.32,0.42,5.51,Colorado St. -140.06,1
+Tennessee,Kentucky,Tennessee -5.5,Tennessee -115.0,-4.99,0.48,0.75,Kentucky -108.22,8
+Georgetown,Connecticut,Georgetown 12.5,Georgetown -110.0,8.37,0.65,12.81,Georgetown -187.24,38
+SMU,Virginia,SMU 1.5,SMU -102.0,-0.04,0.56,5.47,SMU -127.1,36
+Oklahoma,Alabama,Oklahoma 5.5,Oklahoma -110.0,3.22,0.59,6.24,Oklahoma -141.65,38
+Ohio St.,UCLA,Ohio St. -3.5,Ohio St. -110.0,-6.07,0.6,7.31,Ohio St. -148.08,38
+Vanderbilt Florida nan spread
+Indiana Iowa nan spread
+Washington Michigan St. nan spread
+Stanford Duke nan spread
+USC Purdue nan spread
+Texas Tech BYU nan spread
+Villanova St. John's nan spread
