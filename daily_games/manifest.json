@@ -1,50 +1,158 @@
 [
   {
-    "file": "daily_games/Temple_Florida Atlantic.png",
-    "label": "Florida Atlantic at Temple"
+    "file": "daily_games/Monmouth_Northeastern.png",
+    "label": "Northeastern at Monmouth"
   },
   {
-    "file": "daily_games/Maryland_Penn St..png",
-    "label": "Penn St. at Maryland"
+    "file": "daily_games/Saint Francis_Stonehill.png",
+    "label": "Stonehill at Saint Francis"
   },
   {
-    "file": "daily_games/Army_American.png",
-    "label": "American at Army"
+    "file": "daily_games/Albany_Vermont.png",
+    "label": "Vermont at Albany"
   },
   {
-    "file": "daily_games/East Carolina_Charlotte.png",
-    "label": "Charlotte at East Carolina"
+    "file": "daily_games/Towson_Drexel.png",
+    "label": "Drexel at Towson"
   },
   {
-    "file": "daily_games/Purdue Fort Wayne_Milwaukee.png",
-    "label": "Milwaukee at Purdue Fort Wayne"
+    "file": "daily_games/Binghamton_UMBC.png",
+    "label": "UMBC at Binghamton"
   },
   {
-    "file": "daily_games/Green Bay_Oakland.png",
-    "label": "Oakland at Green Bay"
+    "file": "daily_games/Brown_Cornell.png",
+    "label": "Cornell at Brown"
   },
   {
-    "file": "daily_games/South Florida_Wichita St..png",
-    "label": "Wichita St. at South Florida"
+    "file": "daily_games/NJIT_Bryant.png",
+    "label": "Bryant at NJIT"
   },
   {
-    "file": "daily_games/UAB_Tulsa.png",
-    "label": "Tulsa at UAB"
+    "file": "daily_games/Mercyhurst_Central Connecticut.png",
+    "label": "Central Connecticut at Mercyhurst"
   },
   {
-    "file": "daily_games/Tulane_North Texas.png",
-    "label": "North Texas at Tulane"
+    "file": "daily_games/Yale_Columbia.png",
+    "label": "Columbia at Yale"
   },
   {
-    "file": "daily_games/Memphis_UTSA.png",
-    "label": "UTSA at Memphis"
+    "file": "daily_games/Siena_Fairfield.png",
+    "label": "Fairfield at Siena"
   },
   {
-    "file": "daily_games/Houston_Arizona St..png",
-    "label": "Arizona St. at Houston"
+    "file": "daily_games/Fairleigh Dickinson_Wagner.png",
+    "label": "Wagner at Fairleigh Dickinson"
   },
   {
-    "file": "daily_games/San Francisco_Washington St..png",
-    "label": "Washington St. at San Francisco"
+    "file": "daily_games/Harvard_Penn.png",
+    "label": "Penn at Harvard"
+  },
+  {
+    "file": "daily_games/Saint Peter's_Iona.png",
+    "label": "Iona at Saint Peter's"
+  },
+  {
+    "file": "daily_games/Maine_New Hampshire.png",
+    "label": "New Hampshire at Maine"
+  },
+  {
+    "file": "daily_games/Quinnipiac_Manhattan.png",
+    "label": "Manhattan at Quinnipiac"
+  },
+  {
+    "file": "daily_games/Marist_Merrimack.png",
+    "label": "Merrimack at Marist"
+  },
+  {
+    "file": "daily_games/Niagara_Mount St. Mary's.png",
+    "label": "Mount St. Mary's at Niagara"
+  },
+  {
+    "file": "daily_games/Rider_Sacred Heart.png",
+    "label": "Sacred Heart at Rider"
+  },
+  {
+    "file": "daily_games/Alcorn St._Prairie View A&M.png",
+    "label": "Prairie View A&M at Alcorn St."
+  },
+  {
+    "file": "daily_games/Le Moyne_LIU.png",
+    "label": "LIU at Le Moyne"
+  },
+  {
+    "file": "daily_games/VCU_Saint Joseph's.png",
+    "label": "Saint Joseph's at VCU"
+  },
+  {
+    "file": "daily_games/Texas A&M Corpus Chris_McNeese.png",
+    "label": "McNeese at Texas A&M Corpus Chris"
+  },
+  {
+    "file": "daily_games/Alabama St._Alabama A&M.png",
+    "label": "Alabama A&M at Alabama St."
+  },
+  {
+    "file": "daily_games/George Mason_George Washington.png",
+    "label": "George Washington at George Mason"
+  },
+  {
+    "file": "daily_games/Dartmouth_Princeton.png",
+    "label": "Princeton at Dartmouth"
+  },
+  {
+    "file": "daily_games/Incarnate Word_East Texas A&M.png",
+    "label": "East Texas A&M at Incarnate Word"
+  },
+  {
+    "file": "daily_games/Marquette_Providence.png",
+    "label": "Providence at Marquette"
+  },
+  {
+    "file": "daily_games/Arkansas Pine Bluff_Bethune Cookman.png",
+    "label": "Bethune Cookman at Arkansas Pine Bluff"
+  },
+  {
+    "file": "daily_games/Chicago St._New Haven.png",
+    "label": "New Haven at Chicago St."
+  },
+  {
+    "file": "daily_games/Lehigh_Loyola MD.png",
+    "label": "Loyola MD at Lehigh"
+  },
+  {
+    "file": "daily_games/Nicholls_Stephen F. Austin.png",
+    "label": "Stephen F. Austin at Nicholls"
+  },
+  {
+    "file": "daily_games/UT Rio Grande Valley_Southeastern Louisiana.png",
+    "label": "Southeastern Louisiana at UT Rio Grande Valley"
+  },
+  {
+    "file": "daily_games/Mississippi Valley St._Florida A&M.png",
+    "label": "Florida A&M at Mississippi Valley St."
+  },
+  {
+    "file": "daily_games/Houston Christian_Northwestern St..png",
+    "label": "Northwestern St. at Houston Christian"
+  },
+  {
+    "file": "daily_games/Jackson St._Texas Southern.png",
+    "label": "Texas Southern at Jackson St."
+  },
+  {
+    "file": "daily_games/New Orleans_Lamar.png",
+    "label": "Lamar at New Orleans"
+  },
+  {
+    "file": "daily_games/Northern Arizona_Montana.png",
+    "label": "Montana at Northern Arizona"
+  },
+  {
+    "file": "daily_games/Northern Colorado_Montana St..png",
+    "label": "Montana St. at Northern Colorado"
+  },
+  {
+    "file": "daily_games/Hampton_North Carolina A&T.png",
+    "label": "North Carolina A&T at Hampton"
   }
 ]
