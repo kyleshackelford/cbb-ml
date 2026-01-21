@@ -1,35 +1,95 @@
 home team,away team,market spread,market odds,model consensus,model P(cover),model edge (%),model fair odds,# members cover
-Massachusetts,Toledo,Massachusetts -2.5,Massachusetts -105,-0.04,0.4,6.21,Toledo -148.12,0
-Buffalo,Akron,Buffalo 7.5,Buffalo -105,4.48,0.61,10.17,Buffalo -159.02,38
-Ohio St.,Minnesota,Ohio St. -7.5,Ohio St. -115,-7.55,0.5,3.26,Ohio St. -100.91,21
-Central Michigan,Ball St.,Central Michigan -1.5,Central Michigan -102,0.63,0.42,4.17,Ball St. -139.79,0
-Western Michigan,Bowling Green,Western Michigan 6.5,Western Michigan -110,8.08,0.44,3.78,Bowling Green -128.11,2
-Clemson,N.C. State,Clemson -3.5,Clemson -108,-5.38,0.57,5.16,Clemson -132.99,38
-Duquesne,Saint Louis,Duquesne 8.5,Duquesne -110,11.99,0.37,10.88,Saint Louis -172.16,0
-Florida,LSU,Florida -16.5,Florida -105,-13.74,0.4,6.56,LSU -150.31,0
-Miami FL,Florida St.,Miami FL -12.5,Miami FL -105,-15.07,0.6,8.74,Miami FL -149.73,38
-Michigan,Indiana,Michigan -15.5,Michigan -108,-21.5,0.71,18.87,Michigan -242.36,38
-Iowa St.,UCF,Iowa St. -13.5,Iowa St. -110,-16.9,0.62,10.01,Iowa St. -165.86,38
-Kent St.,Miami OH,Kent St. 1.5,Kent St. -122,7.14,0.29,21.44,Miami OH -244.03,0
-St. Bonaventure,Loyola Chicago,St. Bonaventure -11.5,St. Bonaventure -105,-14.8,0.63,11.44,St. Bonaventure -167.84,38
-Ohio,Northern Illinois,Ohio -12.5,Ohio -108,-9.36,0.38,9.52,Northern Illinois -165.59,0
-South Carolina,Oklahoma,South Carolina 1.5,South Carolina -105,1.51,0.5,3.47,Oklahoma -100.05,17
-St. John's,Seton Hall,St. John's -10.5,St. John's -110,-10.14,0.49,1.0,Seton Hall -105.69,12
-Butler,DePaul,Butler -7.5,Butler -105,-11.09,0.64,12.5,Butler -175.62,38
-Illinois Chicago,Evansville,Illinois Chicago -8.5,Illinois Chicago -112,-12.72,0.66,13.33,Illinois Chicago -195.52,38
-TCU,Oklahoma St.,TCU -8.5,TCU -102,-9.58,0.54,3.62,TCU -117.92,38
-Wyoming,Boise St.,Wyoming -1.5,Wyoming -105,-4.95,0.64,12.42,Wyoming -175.01,38
-Iowa,Rutgers,Iowa -18.5,Iowa -105,-22.62,0.65,13.73,Iowa -185.28,38
-Southeast Missouri,Tennessee Martin,Southeast Missouri -2.5,Southeast Missouri -108,1.28,0.35,12.58,Tennessee Martin -189.09,0
-Colorado St.,Air Force,Colorado St. -20.5,Colorado St. -112,-21.35,0.53,0.32,Colorado St. -113.46,29
-Arkansas,Vanderbilt,Arkansas -1.5,Arkansas -112,0.53,0.43,5.47,Vanderbilt -134.71,1
-Mississippi,Auburn,Mississippi 2.5,Mississippi -105,3.32,0.47,0.3,Auburn -113.62,3
-Baylor,Texas Tech,Baylor 1.5,Baylor -105,-2.7,0.66,14.3,Baylor -190.04,38
-Missouri,Georgia,Missouri -1.5,Missouri 102,3.42,0.31,14.65,Georgia -220.24,0
-Kansas St.,Utah,Kansas St. -8.5,Kansas St. -120,-10.55,0.58,3.15,Kansas St. -136.4,38
-Oregon,Michigan St.,Oregon 11.5,Oregon -115,9.51,0.57,4.01,Oregon -135.27,38
-Wake Forest,SMU,Wake Forest 1.5,Wake Forest -122,-0.62,0.58,3.08,Wake Forest -138.27,38
-Nevada,San Jose St.,Nevada -17.5,Nevada -115,-17.75,0.51,2.53,Nevada -103.92,22
-UCLA,Purdue,UCLA 5.5,UCLA -108,6.49,0.46,0.76,Purdue -115.47,6
-Colorado,Kansas,Colorado 5.5,Colorado -115,2.76,0.6,6.68,Colorado -151.04,38
-Utah St.,UNLV,Utah St. -16.5,Utah St. -108,-22.3,0.71,19.25,Utah St. -246.88,38
+Boston University,Lafayette,Boston University -4.5,Boston University -115.0,-6.36,0.57,3.77,Boston University -133.96,37
+Wofford,Samford,Wofford -3.5,Wofford -102.0,-4.9,0.56,5.08,Wofford -125.11,36
+USC Upstate,UNC Asheville,USC Upstate -1.5,USC Upstate -115.0,-0.95,0.48,0.95,UNC Asheville -109.06,8
+VMI,UNC Greensboro,VMI 2.5,VMI -112.0,1.07,0.56,2.91,VMI -125.95,34
+La Salle,Dayton,La Salle 10.5,La Salle -118.0,10.28,0.51,3.22,La Salle -103.72,23
+Winthrop,Radford,Winthrop -9.5,Winthrop -112.0,-12.62,0.62,9.35,Winthrop -164.39,37
+American,Colgate,American -2.5,American -105.0,0.82,0.38,8.92,Colgate -166.01,0
+Bucknell,Army,Bucknell -4.5,Bucknell -115.0,-0.2,0.34,15.16,Army -197.4,0
+Boston College,Pittsburgh,Boston College 2.5,Boston College -110.0,0.19,0.59,6.6,Boston College -143.82,38
+Bradley,Indiana St.,Bradley -8.5,Bradley 100.0,-11.36,0.61,10.85,Bradley -155.42,38
+Presbyterian,Charleston Southern,Presbyterian 2.5,Presbyterian -115.0,-0.66,0.63,9.06,Presbyterian -167.02,38
+Chattanooga,East Tennessee St.,Chattanooga 4.5,Chattanooga -110.0,10.01,0.3,17.56,East Tennessee St. -232.71,0
+Wright St.,Cleveland St.,Wright St. -15.5,Wright St. -110.0,-14.96,0.48,0.28,Cleveland St. -108.77,13
+Creighton,Xavier,Creighton -7.5,Creighton -118.0,-10.02,0.59,4.99,Creighton -144.6,38
+Davidson,Fordham,Davidson -4.5,Davidson -112.0,-6.69,0.58,5.53,Davidson -140.13,37
+Detroit Mercy,Purdue Fort Wayne,Detroit Mercy 3.5,Detroit Mercy -108.0,1.51,0.58,5.62,Detroit Mercy -135.51,36
+Drake,Murray St.,Drake 4.5,Drake -110.0,6.34,0.43,4.61,Murray St. -132.52,0
+Florida Atlantic,Tulane,Florida Atlantic -10.5,Florida Atlantic -110.0,-13.88,0.63,10.16,Florida Atlantic -166.95,38
+The Citadel,Furman,The Citadel 11.5,The Citadel -118.0,11.05,0.52,2.37,The Citadel -107.27,25
+Longwood,Gardner Webb,Longwood -14.5,Longwood -120.0,-15.51,0.54,0.5,Longwood -117.62,34
+Villanova,Georgetown,Villanova -8.5,Villanova -110.0,-10.37,0.57,4.66,Villanova -132.78,38
+Navy,Holy Cross,Navy -9.5,Navy -102.0,-10.7,0.55,4.24,Navy -120.9,35
+Oakland,IU Indy,Oakland -14.5,Oakland -115.0,-17.46,0.61,7.36,Oakland -155.4,37
+Illinois,Maryland,Illinois -18.5,Illinois -110.0,-22.46,0.64,11.92,Illinois -180.1,38
+Kentucky,Texas,Kentucky -7.5,Kentucky -110.0,-9.01,0.56,3.38,Kentucky -126.04,36
+Mercer,Western Carolina,Mercer -8.5,Mercer -118.0,-16.47,0.78,23.79,Mercer -352.8,38
+Queens,North Alabama,Queens -11.5,Queens 100.0,-10.54,0.46,0.81,North Alabama -116.13,5
+North Carolina,Notre Dame,North Carolina -13.5,North Carolina -110.0,-13.11,0.49,0.94,Notre Dame -105.93,13
+Old Dominion,Troy,Old Dominion 6.5,Old Dominion -112.0,4.62,0.57,4.54,Old Dominion -134.57,38
+Richmond,Rhode Island,Richmond -2.5,Richmond -112.0,-4.55,0.58,5.25,Richmond -138.53,37
+Wichita St.,East Carolina,Wichita St. -11.5,Wichita St. -115.0,-16.01,0.67,13.53,Wichita St. -203.17,38
+Sam Houston St.,Kennesaw St.,Sam Houston St. -4.5,Sam Houston St. -115.0,-5.25,0.53,0.44,Sam Houston St. -112.98,27
+Western Kentucky,Liberty,Western Kentucky 1.5,Western Kentucky -115.0,-0.38,0.57,3.74,Western Kentucky -133.8,35
+Tulsa,Memphis,Tulsa -5.5,Tulsa -112.0,-10.28,0.68,15.43,Tulsa -215.07,38
+North Texas,UTSA,North Texas -14.5,North Texas -120.0,-15.95,0.56,1.26,North Texas -126.26,36
+Nebraska Omaha,South Dakota,Nebraska Omaha -5.5,Nebraska Omaha -105.0,-4.58,0.46,0.16,South Dakota -115.76,6
+Rice,Temple,Rice -1.5,Rice -102.0,2.96,0.32,13.51,Temple -208.97,0
+Valparaiso,Southern Illinois,Valparaiso -1.5,Valparaiso -110.0,-1.2,0.49,1.23,Southern Illinois -104.73,16
+UT Arlington,Tarleton St.,UT Arlington -3.5,UT Arlington -102.0,-3.85,0.51,0.95,UT Arlington -105.94,23
+Southern Utah,Utah Valley,Southern Utah 12.5,Southern Utah -112.0,14.93,0.41,7.36,Utah Valley -145.6,0
+Arizona St.,West Virginia,Arizona St. -1.5,Arizona St. -110.0,-3.41,0.57,5.03,Arizona St. -134.78,38
+Arizona,Cincinnati,Arizona -13.5,Arizona -110.0,-20.33,0.74,21.36,Arizona -280.85,38
+New Mexico,Fresno St.,New Mexico -14.5,New Mexico -112.0,-12.9,0.44,4.0,Fresno St. -126.88,0
+Gonzaga,Pepperdine,Gonzaga -27.5,Gonzaga -115.0,-34.18,0.73,19.63,Gonzaga -271.98,38
+Illinois St.,Northern Iowa,Illinois St. -6.5,Illinois St. -115.0,-5.69,0.47,1.83,Northern Iowa -112.97,7
+Texas A&M,Mississippi St.,Texas A&M -8.5,Texas A&M -105.0,-10.94,0.59,8.2,Texas A&M -146.44,38
+Nebraska,Washington,Nebraska -10.5,Nebraska -112.0,-12.76,0.58,5.37,Nebraska -139.23,37
+Syracuse,Virginia Tech,Syracuse -3.5,Syracuse -110.0,-0.81,0.4,7.98,Virginia Tech -152.26,0
+San Diego,Washington St.,San Diego 2.5,San Diego -112.0,-0.53,0.62,8.68,San Diego -159.83,38
+Cal Baptist,Utah Tech,Cal Baptist -8.5,Cal Baptist -112.0,-7.54,0.46,1.84,Utah Tech -116.28,3
+Seattle,Loyola Marymount,Seattle -4.5,Seattle -105.0,-6.0,0.56,4.58,Seattle -126.24,36
+Grand Canyon,San Diego St.,Grand Canyon 1.5,Grand Canyon -125.0,-0.88,0.59,3.7,Grand Canyon -145.41,38
+USC,Northwestern,USC -6.5,USC -108.0,-4.35,0.42,5.39,Northwestern -139.33,0
+Saint Mary's,Oregon St.,Saint Mary's -19.5,Saint Mary's -110.0,-21.8,0.58,6.06,Saint Mary's -140.61,38
+Marshall Louisiana Monroe nan spread
+Appalachian St. Louisiana nan spread
+Youngstown St. Green Bay nan spread
+Georgia Southern Arkansas St. nan spread
+Charleston Campbell nan spread
+Sacred Heart Canisius nan spread
+Coastal Carolina Texas St. nan spread
+Elon Towson nan spread
+Fairfield Niagara nan spread
+Georgia St. Southern Miss nan spread
+Hampton Monmouth nan spread
+North Carolina A&T Hofstra nan spread
+Iona Merrimack nan spread
+James Madison South Alabama nan spread
+Siena Marist nan spread
+Robert Morris Milwaukee nan spread
+Mount St. Mary's Quinnipiac nan spread
+Northeastern Stony Brook nan spread
+Penn St.,Wisconsin,Penn St. 5.5,Penn St. -112.0,2.04,0.63,9.82,Penn St. -167.72,38
+UAB,South Florida,UAB 2.5,UAB -118.0,1.16,0.55,1.24,UAB -124.07,36
+William & Mary UNC Wilmington nan spread
+Morehead St. Western Illinois nan spread
+Oral Roberts North Dakota nan spread
+Southeast Missouri Little Rock nan spread
+Southern Indiana Eastern Illinois nan spread
+Lindenwood Tennessee Tech nan spread
+UC Santa Barbara Cal Poly nan spread
+Denver North Dakota St. nan spread
+Eastern Washington Portland St. nan spread
+UTEP FIU nan spread
+Montana St. Idaho St. nan spread
+Idaho Sacramento St. nan spread
+New Mexico St. Missouri St. nan spread
+Montana Weber St. nan spread
+SIUE Tennessee St. nan spread
+St. Thomas South Dakota St. nan spread
+UC Davis,UC San Diego,UC Davis 2.5,UC Davis -110.0,0.83,0.56,4.09,UC Davis -129.75,36
+Cal St. Fullerton Long Beach St. nan spread
+UC Riverside UC Irvine nan spread
+Hawaii Cal St. Bakersfield nan spread
